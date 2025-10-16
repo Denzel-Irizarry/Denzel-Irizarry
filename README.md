@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Denzel Irizarry 👋
 
-<!--
-**Denzel-Irizarry/Denzel-Irizarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I’m currently a student passionate about technology, lifelong learning, and the great outdoors.
 
-Here are some ideas to get you started:
+## 📚 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Student** on a journey to expand my skills in IT and cybersecurity.
+- 💼 **Certifications:**  
+  - CompTIA A+  
+  - CompTIA Network+  
+  - CompTIA Security+  
+  - CompTIA CySA+
+
+- 🌲 **Passions:** The outdoors & spending quality time with my family.
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/denzel-irizarry/)
+
+## 💬 Favorite Quote
+
+> "The most important step a man can take. It’s not the first one, is it? It’s the next one. Always the next step."  
+> — Brandon Sanderson, *Oathbringer*
+
+---
+
+Thanks for stopping by!
