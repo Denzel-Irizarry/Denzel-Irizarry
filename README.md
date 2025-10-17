@@ -16,6 +16,8 @@ Welcome to my GitHub! I’m currently a student passionate about technology, lif
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/denzel-irizarry/)
+- [Coursera](https://www.coursera.org/learner/denzel-irizarry-cotts)
+- [Credly](https://www.credly.com/users/denzel-irizarry-cotts)
 
 ## 💬 Favorite Quote
 
