@@ -1,0 +1,179 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body {
+  width: 90%;
+  max-width: 750px;
+  margin: 0 auto;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 18px;
+  line-height: 1.3;
+  color: #333;
+  padding-top: 40px;
+}
+h1, h2, h3 {
+  font-family: Helvetica, Arial, sans-serif;
+  margin: 5px 0;
+}
+a {
+  color: #2092C4;
+}
+a:hover {
+  text-decoration: none;
+}
+
+/* HEADER & NAV */
+/* HEADER & NAV - improved */
+.site-header {
+  margin-bottom: 40px;
+  border-bottom: 1px solid #333;
+  padding-bottom: 10px;
+}
+
+/* header layout: column on small screens, row on wider screens */
+.header-inner {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+}
+
+/* title block */
+.title-block h1 {
+  margin: 0;
+  line-height: 1.1;
+}
+.title-block .subtitle {
+  margin: 5px 0 0;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 20px;
+}
+
+/* main nav list: horizontal layout */
+nav .main-nav {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+/* list items */
+nav .main-nav li {
+  margin: 0;
+}
+
+/* nicer link sizing (no huge vertical padding) */
+nav .main-nav a {
+  display: inline-block;
+  padding: 10px 14px;
+  text-decoration: none;
+  color: #333;
+  border-radius: 4px;
+  transition: background 0.15s ease;
+}
+
+/* hover */
+nav .main-nav a:hover {
+  text-decoration: underline wavy #2092C4;
+  background: rgba(32,146,196,0.06);
+}
+
+/* responsive: on wide screens place title left and nav right */
+@media (min-width: 781px) {
+  .header-inner {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+
+
+/* MAIN */
+/* Generic images inside main — full-width by default */
+main img {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+/* Profile image — constrained, responsive, left-aligned */
+.profile {
+  max-width: 300px; /* desired display size */
+  width: 100%;       /* scales down on smaller viewports */
+  height: auto;
+  display: inline-block; /* keeps it inline with content if needed */
+  margin: 0 16px 20px 0; /* small right gap and bottom spacing */
+}
+
+
+/* FOOTER */
+footer {
+  border-top: 1px solid black;
+  margin-top: 50px;
+}
+
+
+/* BLOG */
+article {
+  margin-bottom: 40px;
+  border-bottom: 1px solid #d7d6d6;
+  padding-bottom: 40px;
+}
+article:last-of-type {
+  border: none;
+  padding: 0;
+}
+article header p,
+time {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+article h2 {
+  margin-bottom: 0;
+}
+
+
+/* CONTACT */
+form {
+  padding: 30px 25px;
+  border: 1px solid #e0dfdf;
+  background: #f6f6f6;
+}
+fieldset {
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+legend {
+  font-size: 22px;
+  font-weight: bold;
+  font-family: Helvetica, Arial, sans-serif;
+  padding: 0 0 15px;
+}
+input, textarea, button {
+  width: 100%;
+  border-radius: 4px;
+}
+input, textarea {
+  margin: 5px 0 15px;
+  height: 30px;
+  border: 1px solid #e0dfdf;
+  padding: 6px;
+}
+textarea {
+  height: 100px;
+}
+button {
+  font-weight: bold;
+  background-color: #2092C4;
+  color: white;
+  font-size: 16px;
+  height: 40px;
+  border: none;
+}
