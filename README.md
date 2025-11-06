@@ -4,7 +4,7 @@ Welcome to my GitHub! I’m currently a student passionate about technology, lif
 
 ## 📚 About Me
 
-- 🎓 **Student** on a journey to expand my skills in IT and cybersecurity.
+- 🎓 **Student** on a journey to expand my skills in IT, Cybersecurity, and Coding.
 - 💼 **Certifications:**  
   - CompTIA A+  
   - CompTIA Network+  
@@ -21,7 +21,7 @@ Welcome to my GitHub! I’m currently a student passionate about technology, lif
 
 ## 💬 Favorite Quote
 
-> "The most important step a man can take. It’s not the first one, is it? It’s the next one. Always the next step."  
+> "Sometimes a hypocrite is nothing more than a man in the process of changing."  
 > — Brandon Sanderson, *Oathbringer*
 
 ---
