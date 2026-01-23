@@ -1,6 +1,6 @@
 # Hi, I'm Denzel Irizarry 👋
 
-Welcome to my GitHub! I’m currently a student passionate about technology, lifelong learning, and the great outdoors.
+Welcome to my GitHub! I’m a student passionate about technology, lifelong learning, and the great outdoors.
 
 ## 📚 About Me
 
@@ -11,7 +11,12 @@ Welcome to my GitHub! I’m currently a student passionate about technology, lif
   - CompTIA Security+  
   - CompTIA CySA+
 
-- 🌲 **Passions:** The outdoors & spending quality time with my family.
+- 🌲 **Passions:** 
+  - Spending time with family and friends
+  - Spending time outdoors/traveling
+  - Learning
+  - Reading
+  - Helping people
 
 ## 🌐 Connect with Me
 
