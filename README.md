@@ -18,8 +18,8 @@ Welcome to my GitHub! I’m a student passionate about technology, lifelong lear
   - Reading
   - Helping people
 
-## 🌐 Connect with Me
-
+## 🌐 Check me out below
+- [Resume](https://rxresu.me/denzel-irizarry/denzel-irizarry-resume)
 - [LinkedIn](https://www.linkedin.com/in/denzel-irizarry/)
 - [Coursera](https://www.coursera.org/learner/denzel-irizarry-cotts)
 - [Credly](https://www.credly.com/users/denzel-irizarry-cotts)
