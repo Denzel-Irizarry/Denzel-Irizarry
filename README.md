@@ -28,6 +28,3 @@ I'm a U.S. Army veteran and entry-level software engineer focused on DevOps, clo
 > "Sometimes a hypocrite is nothing more than a man in the process of changing."  
 > — Brandon Sanderson, *Oathbringer*
 
----
-
-
