@@ -9,6 +9,7 @@ I'm a U.S. Army veteran and entry-level software engineer focused on DevOps, clo
   - CompTIA Network+  
   - CompTIA Security+  
   - CompTIA CySA+
+  - AZ-900: Microsoft Azure Fundamentals
 
 - **Interests** 
   - IT operations and system automation
