@@ -1,0 +1,34 @@
+<main>
+    <form (submit)="composeEmail($event, name.value, email.value, message.value)">
+<h2>Contact Me!</h2>
+    <p>Sending a message opens your email app.</p>
+    <div>
+        <label for="name">Name:</label>
+        <input type="text" id="name" #name name="name" required placeholder="Your Name">
+    </div>
+    <div>
+        <label for="email">Email:</label>
+        <input type="email" id="email" #email name="email" required placeholder="example.com"
+                pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}" >
+    </div>
+    <div>
+        <label for="message">Leave a message:</label>
+        <textarea id="message" #message name="message" required
+        rows="4" cols="50" placeholder="Your message here..."></textarea>
+    </div>
+    <div>
+        <button type="submit">Send Message</button>
+    </div>
+
+</form>
+    <h2>Other Ways to Reach Me</h2>
+    <p>Here are places where you can reach me.</p>
+<ul>    
+    <li>Email: <a href="mailto:denzel_irizarry@outlook.com">denzel_irizarry@outlook.com</a></li>
+    <li>Phone: <a href="tel:+1-407-984-8661">(407) 984-8661</a></li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/denzel-irizarry/" target= "_blank" rel="noopener" title="My LinkedIn profile">denzel-irizarry</a></li>
+    <li>GitHub: <a href="https://github.com/Denzel-Irizarry" target="_blank" rel="noopener" title="My GitHub profile">Denzel-Irizarry</a></li>
+
+</ul>
+
+</main>
